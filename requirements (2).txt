@@ -1,0 +1,8 @@
+transformers
+datasets
+peft
+accelerate
+sentence-transformers
+faiss-cpu
+streamlit
+evaluate
