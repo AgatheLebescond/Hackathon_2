@@ -1,4 +1,5 @@
 # Fine-Tuned LLM for Sentiment Analysis and Contextual Responses
+Premier sujet choisi puis remplacer par le n°3
 
 This project demonstrates how to fine‑tune a language model using LoRA for sentiment classification and then generate context‑aware responses using retrieval. A small Streamlit UI exposes the pipeline.
 
